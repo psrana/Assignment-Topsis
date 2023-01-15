@@ -1,4 +1,4 @@
-# **Assignment Topsis**
+# **Assignment - Topsis**
 
 ---
 #### **Step 1** - Learn Topsis 
