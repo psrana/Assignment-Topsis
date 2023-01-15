@@ -1,7 +1,8 @@
 # **Assignment Topsis**
 
 ---
-# **Step 1** - Learn Topsis <a href="https://pycaret.readthedocs.io/en/latest/tutorials.html">Link-1</a>, <a href="https://pycaret.readthedocs.io/en/latest/tutorials.html">Link-2</a>
+### **Step 1** - Learn Topsis 
+<a href="https://www.youtube.com/watch?v=kfcN7MuYVeI">Link-1</a>, <a href="https://www.youtube.com/watch?v=9P9Gs8o9oHk">Link-2</a>
 
 ---
 ### **1. Self Learning Resource**
