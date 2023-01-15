@@ -1,16 +1,7 @@
-# Assignment Topsis
-
-
+# **Assignment Topsis**
 
 ---
-# **PyCaret for Machine Learning**
-
-- It is a bundle of many Machine Learning algorithms.
-- Only three lines of code is required to compare 20 ML models.
-- Pycaret is available for:
-    - Classification
-    - Regression
-    - Clustering
+# **Step 1** - Learn Topsis <a href="https://pycaret.readthedocs.io/en/latest/tutorials.html">Link-1</a>, <a href="https://pycaret.readthedocs.io/en/latest/tutorials.html">Link-2</a>
 
 ---
 ### **1. Self Learning Resource**
