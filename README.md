@@ -6,7 +6,7 @@
 
 ---
 #### **Step 2** - How to publish Python package
-<a href="https://medium.com/@joel.barmettler/how-to-upload-your-python-package-to-pypi-65edc5fe9c56">Link-1</a>, <a href="https://www.youtube.com/watch?v=tEFkHEKypLI">Link-2</a>, <a href="https://www.youtube.com/watch?v=Qs91v2Tofys">Link-3</a>
+<a href="https://medium.com/@joel.barmettler/how-to-upload-your-python-package-to-pypi-65edc5fe9c56">Link-1</a>, <a href="https://www.youtube.com/watch?v=Qs91v2Tofys">Link-2</a>, <a href="https://www.youtube.com/watch?v=tEFkHEKypLI">Link-3</a>, 
 
 
 ### **1. Self Learning Resource**
